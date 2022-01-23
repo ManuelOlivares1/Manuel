@@ -4,6 +4,8 @@ I currently work as management control in A3D
 ### Skills
 * Python
 * Html
+### Find me at
+* https://www.linkedin.com/in/manuel-olivares-espinosa-6b05631a8/
 ### Contact me
 * olivares.manuel@protonmail.com
 
