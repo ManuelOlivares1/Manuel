@@ -8,5 +8,6 @@ I currently work as management control in A3D
 * https://www.linkedin.com/in/manuel-olivares-espinosa-6b05631a8/
 ### Contact me
 * olivares.manuel@protonmail.com
+	/appveyor/build/:user/:repo
 
 
