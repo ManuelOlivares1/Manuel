@@ -3,7 +3,7 @@
 I currently working as management control in A3D
 ### Skills
 * Python Developer: Machine Learning, Desktop Applications, Web Applications, Mailing, API.
-* Web Developer: Html, CSS, JavaScript 
+* Web Developer: Html, CSS, JavaScript. 
 ### Find me at
 * https://www.linkedin.com/in/manuel-olivares-espinosa-6b05631a8/
 ### Contact me
